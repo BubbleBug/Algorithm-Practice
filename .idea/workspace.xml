@@ -2,45 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ec0f157-af9b-4f40-9470-512a6918df8a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/github/bubble/learn/tree/MaxDepth.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tst/github/bubble/learn/tree/MaxDepthTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/github/bubble/learn/tree/SymmetricTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tst/github/bubble/learn/tree/SymmetricTreeTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/github/bubble/learn/tree/Tree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/github/bubble/learn/tree/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tst/github/bubble/learn/tree/TreeTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/AddTwoNumbers.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/AddTwoNumbers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/AddTwoNumbersTest.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/AddTwoNumbersTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/Basic.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/Basic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/DeleteDuplicatesTest.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/DeleteDuplicatesTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/array/GetMinTwoValues.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/array/GetMinTwoValues.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/array/GetMinTwoValuesTest.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/array/GetMinTwoValuesTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/LinkedList.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/LinkedList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/LinkedListTest.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/LinkedListTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/ListNode.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/array/MobileArrayList.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/array/MobileArrayList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/array/MobileArrayListTest.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/array/MobileArrayListTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/Remove.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/Remove.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/RemoveDuplicatesNodes.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/RemoveDuplicatesNodes.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/RemoveMiddleNodeTest.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/RemoveMiddleNodeTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/RemoveNthNodeLostListTest.class" afterPath="$PROJECT_DIR$/bin/github/bubble/learn/linkedlist/RemoveNthNodeLostListTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tst/github/bubble/learn/array/GetMinTwoValuesTest.java" afterPath="$PROJECT_DIR$/tst/github/bubble/learn/array/GetMinTwoValuesTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MOVED" beforePath="E:\算法\Algorithm2\Algorithm.iml" afterPath="$PROJECT_DIR$/Algorithm-Practice.iml" />
     </list>
-    <list id="611eb55d-d24e-43ad-93df-45d74f604d2f" name="Rejected commit: Default" comment="Rejected commit: Default">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/github/bubble/learn/array/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/github/bubble/learn/array/QueenN.java" />
-    </list>
+    <list id="611eb55d-d24e-43ad-93df-45d74f604d2f" name="Rejected commit: Default" comment="Rejected commit: Default" />
     <ignored path="Algorithm.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -730,12 +695,12 @@
       <workItem from="1427703768229" duration="27000" />
       <workItem from="1427763070418" duration="16898000" />
       <workItem from="1427792361044" duration="686000" />
-      <workItem from="1427851985640" duration="8376000" />
+      <workItem from="1427851985640" duration="9020000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28945000" />
+    <option name="totallyTimeSpent" value="29589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
