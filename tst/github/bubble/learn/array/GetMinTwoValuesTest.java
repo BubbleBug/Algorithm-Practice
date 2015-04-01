@@ -2,6 +2,7 @@ package github.bubble.learn.array;
 
 import static org.junit.Assert.*;
 
+import junit.framework.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -10,7 +11,6 @@ import github.bubble.learn.array.GetMinTwoValues;
 public class GetMinTwoValuesTest {
 
 	GetMinTwoValues getMinTwoValues;
-
 	@Before
 	public void setUp() throws Exception {
 		getMinTwoValues=new GetMinTwoValues();
