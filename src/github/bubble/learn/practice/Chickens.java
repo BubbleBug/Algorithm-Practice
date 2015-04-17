@@ -7,6 +7,7 @@ package github.bubble.learn.practice;
  * With 100 pence to buy one hundred chickens,
  * the rooster, hen, the chicken must have,
  * ask the rooster, hen, chicken how much to buy only just fill 100 pence.
+ *
  */
 public abstract class Chickens {
     public static int chickens(){
@@ -24,8 +25,7 @@ public abstract class Chickens {
     }
 
     /**
-     * https://docs.google.com/document/d/1Mj0PD2QYZ9XXW1AWABDrDRIR3dgTJp0uB87rBypuWtE/edit?usp=sharing
-     * @return
+     * @return  the kinds of buy chickens method
      */
     public static int bestChickes(){
         int x,y,z,number=0;
