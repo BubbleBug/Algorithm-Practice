@@ -11,6 +11,7 @@ import java.util.Queue;
  * Given a binary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level).
  */
 public class LevelOrderTraversal {
+    //279
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> result=new ArrayList<List<Integer>>();
         List<TreeNode> level=new ArrayList<TreeNode>();
@@ -31,7 +32,7 @@ public class LevelOrderTraversal {
         }
         return result;
     }
-
+    //259ms
     public List<List<Integer>> levelOrderByQueue(TreeNode root) {
         List<List<Integer>> result=new ArrayList<List<Integer>>();
         Queue<TreeNode> queue=new LinkedList<TreeNode>();
