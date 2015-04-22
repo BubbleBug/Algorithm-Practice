@@ -1,12 +1,13 @@
 package github.bubble.learn.linkedlist;
 
 public class AddTwoNumbers {
+
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 		ListNode head = null;
 		ListNode newNode = null;
 		int v1 = 0;
-		int v2 = 0;// 存储节点值
-		int n = 0;// 节点和十位上的值
+		int v2 = 0;
+		int n = 0;
 		while (l1 != null || l2 != null) {
 			if (l1 == null)
 				v1 = 0;
@@ -16,7 +17,7 @@ public class AddTwoNumbers {
 				v2 = 0;
 			else
 				v2 = l2.vale;
-			int val = (v1 + v2 + n) % 10;// 节点和个位上的值
+			int val = (v1 + v2 + n) % 10;
 			n = (v1 + v2 + n) / 10;
 
 			if (head == null) {

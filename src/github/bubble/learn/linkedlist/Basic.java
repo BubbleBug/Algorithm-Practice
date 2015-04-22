@@ -1,7 +1,7 @@
 package github.bubble.learn.linkedlist;
 
 public class Basic {
-	//·´×ªÁ´±í
+
 	public static ListNode ReverseLink(ListNode head) {
 		if (head==null || head.next==null) {
 			return head;
