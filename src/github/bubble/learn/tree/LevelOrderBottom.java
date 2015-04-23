@@ -21,7 +21,7 @@ public class LevelOrderBottom {
     //recursive
     void traverse(List<List<Integer>> list,int level,TreeNode node){
         if(node==null)return;
-        if(list.size()-1<level)list.add(0,new ArrayList<Integer>());
+        if(list.size()<=level)list.add(0,new ArrayList<Integer>());
         list.get(list.size()-level-1).add(node.val);
         traverse(list,level+1,node.left);
         traverse(list,level+1,node.right);
