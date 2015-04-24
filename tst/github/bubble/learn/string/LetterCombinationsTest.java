@@ -1,4 +1,4 @@
-package github.bubble.learn.problems;
+package github.bubble.learn.string;
 
 import org.junit.Before;
 import org.junit.Test;

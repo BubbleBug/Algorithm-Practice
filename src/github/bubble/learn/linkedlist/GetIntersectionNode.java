@@ -3,7 +3,7 @@ package github.bubble.learn.linkedlist;
 /**
  * Created by wangshuang on 2015/4/20.
  *
- * https://leetcode.com/problems/intersection-of-two-linked-lists/
+ * https://leetcode.com/string/intersection-of-two-linked-lists/
  * Write a program to find the node at which the intersection of two singly linked lists begins.
  *
  * Notes:

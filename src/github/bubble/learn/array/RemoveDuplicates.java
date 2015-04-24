@@ -3,7 +3,7 @@ package github.bubble.learn.array;
 /**
  * Created by wangshuang on 2015/4/22.
  *
- * https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+ * https://leetcode.com/string/remove-duplicates-from-sorted-array/
  *
  */
 public class RemoveDuplicates {

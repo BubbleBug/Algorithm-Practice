@@ -1,4 +1,4 @@
-package github.bubble.learn.problems;
+package github.bubble.learn.string;
 
 import java.util.ArrayList;
 import java.util.List;
