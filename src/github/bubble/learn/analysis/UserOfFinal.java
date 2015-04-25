@@ -8,8 +8,8 @@ package github.bubble.learn.analysis;
 public class UserOfFinal {
     public static void main(String args[]) {
 
-        final int lenght=4;
-        //lenght=6; //This is not allowed
+        final int length=4;
+        //length=6; //This is not allowed
 
         final Object object=new Object();
         //object=new Object(); //This is not allowed

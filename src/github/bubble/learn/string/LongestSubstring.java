@@ -12,17 +12,18 @@ import java.util.*;
  */
 public class LongestSubstring {
     public int lengthOfLongestSubstring(String str){
-        int length=str.length();
+        final int length=str.length();
         if(length<2)return length;
-        int start=0;
-        int m=0;
-        Map<Character,Integer> hashMap=new HashMap<Character, Integer>();
+        int start=0,m=0;
+        HashMap<Character,Integer> hashMap=new HashMap<Character, Integer>();
 
-        for (int i=0;i<str.length();i++){
-            Integer index=hashMap.get(str.charAt(i));
-            if(index!=null && index>=start){
-                m=Math.max(m,i-start);
-                start=index+1;
+        for (int i=0;i<length;i++){
+            if(hashMap.containsKey(str.charAt(i))) {
+                Integer index = hashMap.get(str.charAt(i));
+                if (index != null && index >= start) {
+                    m = Math.max(m, i - start);
+                    start = index + 1;
+                }
             }
             hashMap.put(str.charAt(i), i);
         }
@@ -31,7 +32,7 @@ public class LongestSubstring {
 
     }
 
-    public int lengthOfLongestSubstring2(String str){
+    public int lengthOfLongestSubstringOfAnotherSolution(String str){
         if(str.length()<2)return str.length();
         HashMap<Character,Integer> hashMap=new HashMap<Character, Integer>();
         int m=0;
