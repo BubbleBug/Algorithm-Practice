@@ -2,70 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ec0f157-af9b-4f40-9470-512a6918df8a" name="Default" comment="添加判断两个树是否相同的函数。">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/linkedlist/AddTwoNumbers.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/linkedlist/AddTwoNumbersTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/linkedlist/Basic.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/tree/BoundaryTraversal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/linkedlist/DeleteDuplicatesTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/array/FindNonRepeated.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/array/FindNonRepeatedTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/linkedlist/GetIntersectionNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/linkedlist/GetIntersectionNodeTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/array/GetMinTwoValues.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/array/GetMinTwoValuesTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/tree/HasPathSum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/tree/HasPathSumTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/tree/IsBalanced.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/tree/IsBalancedTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/string/LetterCombinations.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/string/LetterCombinationsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/tree/LevelOrderBottom.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/tree/LevelOrderBottomTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/tree/LevelOrderTraversal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/tree/LevelOrderTraversalTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/linkedlist/LinkedList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/linkedlist/LinkedListTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/linkedlist/ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/string/LongestSubstring.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/string/LongestSubstringTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/array/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/tree/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/tree/MaxDepth.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/tree/MaxDepthTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/linkedlist/MergeTwoLists.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/linkedlist/MergeTwoListsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/tree/MinDepth.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/tree/MinDepthTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/array/MobileArrayList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/array/MobileArrayListTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/analysis/MyClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/array/QueenN.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/linkedlist/Remove.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/array/RemoveChars.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/array/RemoveCharsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/array/RemoveDuplicates.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/linkedlist/RemoveDuplicatesNodes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/array/RemoveDuplicatesTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/array/RemoveElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/array/RemoveElementTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/linkedlist/RemoveMiddleNodeTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/linkedlist/RemoveNthNodeLostListTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/tree/SameTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/tree/SameTreeTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/tree/SymmetricTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/tree/SymmetricTreeTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/tree/Tree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/tree/TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Algorithm-Practice/github/bubble/learn/tree/TreeTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/github/bubble/learn/analysis/UserOfFinal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit41.xml" />
+      <change type="DELETED" beforePath="E:\算法\Algorithm-Practice\Algorithm2.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm-Practice.iml" afterPath="$PROJECT_DIR$/Algorithm-Practice.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/github/bubble/learn/string/LongestSubstring.java" afterPath="$PROJECT_DIR$/src/github/bubble/learn/string/LongestSubstring.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tst/github/bubble/learn/string/LongestSubstringTest.java" afterPath="$PROJECT_DIR$/tst/github/bubble/learn/string/LongestSubstringTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/github/bubble/learn/analysis/UserOfFinal.java" afterPath="$PROJECT_DIR$/src/github/bubble/learn/analysis/UserOfFinal.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/junit4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/junit4.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="611eb55d-d24e-43ad-93df-45d74f604d2f" name="Rejected commit: Default" comment="Rejected commit: Default" />
@@ -98,86 +39,7 @@
     <favorites_list name="Algorithm" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="LongestSubstring.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/github/bubble/learn/string/LongestSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="526" max-vertical-offset="1265">
-              <caret line="34" column="56" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestSubstringTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tst/github/bubble/learn/string/LongestSubstringTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6928214" vertical-offset="482" max-vertical-offset="1081">
-              <caret line="42" column="81" selection-start-line="42" selection-start-column="81" selection-end-line="42" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LetterCombinationsTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tst/github/bubble/learn/string/LetterCombinationsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="1748">
-              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
-              <folding>
-                <element signature="e#492#500#0" expanded="true" />
-                <element signature="e#735#743#0" expanded="true" />
-                <element signature="e#979#987#0" expanded="true" />
-                <element signature="e#1277#1285#0" expanded="true" />
-                <element signature="e#1604#1612#0" expanded="true" />
-                <element signature="e#1852#1860#0" expanded="true" />
-                <element signature="e#2155#2163#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddTwoNumbersTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tst/github/bubble/learn/linkedlist/AddTwoNumbersTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2461">
-              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserOfFinal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/github/bubble/learn/analysis/UserOfFinal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="829" max-vertical-offset="1725">
-              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-              <folding>
-                <element signature="e#1636#1637#0" expanded="true" />
-                <element signature="e#1666#1667#0" expanded="true" />
-                <element signature="e#1901#1902#0" expanded="true" />
-                <element signature="e#1940#1941#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LetterCombinations.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/github/bubble/learn/string/LetterCombinations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="667">
-              <caret line="45" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#508#516#0" expanded="true" />
-                <element signature="method#letterCombinations#0;class#LetterCombinations#0" expanded="false" />
-                <element signature="method#combination#0;class#LetterCombinations#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -248,8 +110,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="736" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -276,7 +138,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -324,28 +185,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="string" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm-Practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm-Practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -378,6 +217,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -391,7 +231,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/开发工具/Junit 4.11/hamcrest-core-1.3.jar!/" />
+    <property name="last_opened_file_path" value="E:/软件/开发软件/junit4.9b2/junit4.9b2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -978,20 +818,20 @@
       <workItem from="1429779141945" duration="2412000" />
       <workItem from="1429835352971" duration="19684000" />
       <workItem from="1429972478879" duration="3387000" />
+      <workItem from="1430095666452" duration="208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152744000" />
+    <option name="totallyTimeSpent" value="152952000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="736" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -999,21 +839,22 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32643312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21156661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21145834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39979124" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39979124" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32643312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985386" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985386" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1067,6 +908,59 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tst/github/bubble/learn/string/LongestSubstringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="940">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tst/github/bubble/learn/string/LetterCombinationsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="1520">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <element signature="e#492#500#0" expanded="true" />
+            <element signature="e#735#743#0" expanded="true" />
+            <element signature="e#979#987#0" expanded="true" />
+            <element signature="e#1277#1285#0" expanded="true" />
+            <element signature="e#1604#1612#0" expanded="true" />
+            <element signature="e#1852#1860#0" expanded="true" />
+            <element signature="e#2155#2163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tst/github/bubble/learn/linkedlist/AddTwoNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="2140">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/bubble/learn/analysis/UserOfFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="1500">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/bubble/learn/string/LetterCombinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="580">
+          <caret line="45" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#508#516#0" expanded="true" />
+            <element signature="method#letterCombinations#0;class#LetterCombinations#0" expanded="false" />
+            <element signature="method#combination#0;class#LetterCombinations#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/github/bubble/learn/string/LongestSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="627" max-vertical-offset="1026">
@@ -1353,6 +1247,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tst/github/bubble/learn/string/LongestSubstringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30139935" vertical-offset="0" max-vertical-offset="940">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/bubble/learn/string/LongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.547901" vertical-offset="171" max-vertical-offset="1100">
+          <caret line="34" column="56" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tst/github/bubble/learn/string/LetterCombinationsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="1748">
@@ -1381,18 +1291,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="829" max-vertical-offset="1725">
           <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-          <folding>
-            <element signature="e#1636#1637#0" expanded="true" />
-            <element signature="e#1666#1667#0" expanded="true" />
-            <element signature="e#1901#1902#0" expanded="true" />
-            <element signature="e#1940#1941#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/github/bubble/learn/string/LetterCombinations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="667">
+        <state vertical-scroll-proportion="0.4305705" vertical-offset="0" max-vertical-offset="929">
           <caret line="45" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1400,22 +1305,6 @@
             <element signature="method#letterCombinations#0;class#LetterCombinations#0" expanded="false" />
             <element signature="method#combination#0;class#LetterCombinations#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/github/bubble/learn/string/LongestSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="526" max-vertical-offset="1265">
-          <caret line="34" column="56" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tst/github/bubble/learn/string/LongestSubstringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6928214" vertical-offset="482" max-vertical-offset="1081">
-          <caret line="42" column="81" selection-start-line="42" selection-start-column="81" selection-end-line="42" selection-end-column="81" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1483,6 +1372,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1494,7 +1384,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>junit4</last-edited>
+          <last-edited>junit41</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
