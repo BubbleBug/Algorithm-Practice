@@ -37,6 +37,7 @@ public class PlusOneTest {
     public void testPlusOneOfTwoElementArray() throws Exception {
         int[] result1=plusOne.plusOne(new int[]{2,3});
         int[] result2=plusOne.plusOne(new int[]{9,9});
+        int[] result3=plusOne.plusOne(new int[]{2,9});
         assertEquals(2,result1.length);
         assertEquals(2,result1[0]);
         assertEquals(4,result1[1]);
@@ -44,5 +45,8 @@ public class PlusOneTest {
         assertEquals(1,result2[0]);
         assertEquals(0,result2[1]);
         assertEquals(0,result2[2]);
+        assertEquals(2,result3.length);
+        assertEquals(3,result3[0]);
+        assertEquals(0,result3[1]);
     }
 }
